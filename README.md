@@ -2,7 +2,7 @@
 
 <div class="container" align="center">
   <div style="background-image">
-    <img src="https://github.com/nseddon/bikesharing/blob/main/images/Citibikes-NYC-916126092.jpg" alt="Bike Share" width="1000" height="150">
+    <img src="https://github.com/nseddon/bikesharing/blob/main/images/Citibikes-NYC-916126092.jpg" alt="Bike Share" width="600" height="150">
     <h1 align="center">Bike Share Analysis</h1>
   </div>
 </div>
