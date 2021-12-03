@@ -1,5 +1,3 @@
-# Bike Sharing Startup
-
 <div class="container" align="center">
   <div style="background-image">
     <img src="https://github.com/nseddon/bikesharing/blob/main/images/Citibikes-NYC-916126092.jpg" alt="Bike Share" width="600" height="400">
