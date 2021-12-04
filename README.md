@@ -7,7 +7,7 @@
   
 ## Overview of the analysis:
 
-The purpose of this analysis was to determine viatibility of ride sharing services in New York City.  
+The purpose of this analysis was to determine viability of ride sharing services in New York City.  
 
 ## Table of contents:
 * [Resources](#resources)
