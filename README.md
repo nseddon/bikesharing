@@ -7,7 +7,10 @@
   
 ## Overview of the analysis:
 
-The purpose of this analysis was to determine viability of ride sharing services in New York City.  
+The purpose of this analysis was to determine:
+-  Viability of Bicycle Ride Sharing Services in New York City.
+-  Determine periods of use including breakdowns by gender, subscribers, and for maintenance determination.
+-  Provide comparisons about possible expansion into other geographic areas.
 
 ## Table of contents:
 * [Resources](#resources)
@@ -25,4 +28,5 @@ The purpose of this analysis was to determine viability of ride sharing services
 
 ## Summary:
 
- 
+-  Urbanized areas show consistently more bike sharing then outlying/suburb areas.
+-  Bike sharing peak times conform to the standard work week, during commute times.  However, periods of activity
