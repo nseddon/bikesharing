@@ -38,7 +38,7 @@ The purpose of this analysis was to determine:
 <div class="container" align="center">
   <div style="background-image">
     <img src="https://github.com/nseddon/bikesharing/blob/main/images/Slide%202.PNG" alt="Starttime Heatmap" width="600" height="400">
-    <h5 align="left">A heatmap view of ride start times, broken down by day of the week, corroborates the previous slide by hour breakdown.  It further illustrates that the majority of bike share activity occurs during the standard work week, Monday through Friday.  However, it is also noted that increased usage occurs during the weekend days, between the hours of 8am and 6pm.  From this, it can be concluded that the bike sharing program is being used for both business and pleasure by our users.
+    <h5 align="left">A heatmap view of ride start times, broken down by day of the week, corroborates the previous slide by hour breakdown.  It further illustrates that the majority of bike share activity occurs during the standard work week, Monday through Friday.  However, it is also noted that increased usage occurs during the weekend days, between the hours of 8am and 6pm.  From this, it can be concluded that the bike sharing program is being used for both work related and recreation by our users.
     </h5>
   </div>
 </div>
