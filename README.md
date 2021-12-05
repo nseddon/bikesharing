@@ -25,8 +25,7 @@ The purpose of this analysis was to determine:
 ## Results:
 
 [NYC Citibike Analysis](https://public.tableau.com/app/profile/nicholas.seddon/viz/NYCCitibikeAnalysis_16382472615300/NYCCitibikeAnalysis?publish=yes)
-
-Click above link to see Tableau based presentation which would accompany below briefings.
+ <- Click link to see Tableau based presentation which would accompany below briefings.
 
 <div class="container" align="center">
   <div style="background-image">
