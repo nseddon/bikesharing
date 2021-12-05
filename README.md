@@ -26,6 +26,10 @@ The purpose of this analysis was to determine:
 
 [NYC Citibike Analysis](https://public.tableau.com/app/profile/nicholas.seddon/viz/NYCCitibikeAnalysis_16382472615300/NYCCitibikeAnalysis?publish=yes)
 
+[Slide 1](https://github.com/nseddon/bikesharing/blob/main/images/Slide%201.PNG)
+
+
+
 ## Summary:
 
 -  Urbanized areas show consistently more bike sharing then outlying/suburb areas.
