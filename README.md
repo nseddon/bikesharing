@@ -27,6 +27,13 @@ The purpose of this analysis was to determine:
 [NYC Citibike Analysis](https://public.tableau.com/app/profile/nicholas.seddon/viz/NYCCitibikeAnalysis_16382472615300/NYCCitibikeAnalysis?publish=yes)
 
 ![Slide 1](https://github.com/nseddon/bikesharing/blob/main/images/Slide%201.PNG)
+![Slide 2](https://github.com/nseddon/bikesharing/blob/main/images/Slide%202.PNG)
+![Slide 3](https://github.com/nseddon/bikesharing/blob/main/images/Slide%203.PNG)
+![Slide 4](https://github.com/nseddon/bikesharing/blob/main/images/Slide%204.PNG)
+![Slide 5](https://github.com/nseddon/bikesharing/blob/main/images/Slide%205.PNG)
+![Slide 6](https://github.com/nseddon/bikesharing/blob/main/images/Slide%206.PNG)
+![Slide 7](https://github.com/nseddon/bikesharing/blob/main/images/Slide%207.PNG)
+![Slide 8](https://github.com/nseddon/bikesharing/blob/main/images/Slide%208.PNG)
 
 
 
