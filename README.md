@@ -29,7 +29,7 @@ The purpose of this analysis was to determine:
 <div class="container" align="center">
   <div style="background-image">
     <img src="https://github.com/nseddon/bikesharing/blob/main/images/Slide%201.PNG" alt="Trip Log" width="600" height="400">
-    <h5 align="left">This chart shows the total number of trips logged during the month of August 2019.  2,344,224 total trips were made during the analysis period.  The data collected shows peak times of ride sharing occured between the periods of 7am through 10am and 4pm through 8pm.
+    <h5 align="left">This chart shows the total number of trips - 2,344,224 - logged during the month of August 2019.  The data collected shows peak times of ride sharing occured between the periods of 7am through 10am and 4pm through 8pm.
     </h5>
   </div>
 </div>
@@ -78,7 +78,7 @@ The purpose of this analysis was to determine:
 <div class="container" align="center">
   <div style="background-image">
     <img src="https://github.com/nseddon/bikesharing/blob/main/images/Slide%207.PNG" alt="Gender Subscriber vs Customer" width="600" height="400">
-    <h5 align="left">This bubble chart is showing the areas where trips are starting
+    <h5 align="left">This bubble chart (color and size relative) is showing the starting areas of trips. As can be seen, the island of Manhattan holds a majority share of ride share starting locations.  Specifically, urbanized housing areas and stations set up around Central Park show the most activity.  This is showing a relationship in line with previous slides indicating alternative transport options for commuting purpose, and weekend recreational use.
     </h5>
   </div>
 </div>
@@ -86,13 +86,10 @@ The purpose of this analysis was to determine:
 <div class="container" align="center">
   <div style="background-image">
     <img src="https://github.com/nseddon/bikesharing/blob/main/images/Slide%208.PNG" alt="Synopsis" width="600" height="400">
-    <h5 align="left">This bubble chart is showing the areas where trips are starting
+    <h5 align="left">Revisiting the trips by hours charts, we can determine a maintenance plan.  The least use of ride sharing occurs specifically between the hours of 2am through 5am.  Also, the 8 hour period with the least usage occurs from 11pm through 7am, Monday through Friday.  Setting this as the standard maintenance shift will allow hiring/scheduling of a maintenance team, following the standard 40 hour work week.  This will allow the company to entice skilled workers by providing a full time position, benefits, and incentive of weekends off.  Overtime opportunities and a minimal emergency maintenance crew during standard business hours should be factored in when creating this division.
     </h5>
   </div>
 </div>
-
-
-
 
 ## Summary:
 
