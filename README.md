@@ -99,4 +99,7 @@ The purpose of this analysis was to determine:
 -  Primary Maintenance should occur between 11pm and 7am to ensure the least amount of impact on user experience, while maintaining quality and accessibility.
 
 When considering introducing bike share into other geographic areas, consider the following:
--  Percentage of population living in urban versus rural
+-  Percentage of population living in urban versus rural (higher urban supports larger fleet).
+-  Mass transit systems already in place (compared to NYC Taxis/Bus/Subway systems)
+-  Gender identity of demographic area for marketing/target impact determination.
+-  Existing ride sharing services (car/bike/etc) to perform analysis for adminstrative policies/hiring/scheduling/competition.
