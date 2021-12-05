@@ -94,7 +94,7 @@ The purpose of this analysis was to determine:
 
 ## Summary:
 
--  Urbanized areas show consistently more bike sharing then outlying/suburb areas.
+-  Urbanized areas show consistently more bike sharing then outlying/suburban areas.
 -  Bike sharing peak times conform to the standard work week, during commute times.  However, periods of activity for weekend recreational use are noted.
 -  Male subscribers account for the majority of trips made.  Marketing strategies to increase female non-identified subscriptions should be investigated.
 -  Primary Maintenance should occur between 11pm and 7am to ensure the least amount of impact on user experience, while maintaining quality and accessibility.
