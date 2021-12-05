@@ -68,7 +68,7 @@ The purpose of this analysis was to determine:
 
 <div class="container" align="center">
   <div style="background-image">
-    <img src="https://github.com/nseddon/bikesharing/blob/main/images/Slide%206.PNG" alt="Gender Subscriber vs Customer" width="600" height="350">
+    <img src="https://github.com/nseddon/bikesharing/blob/main/images/Slide%206.PNG" alt="Gender Subscriber vs Customer" width="600" height="300">
     <h5 align="left">This heatmap shows usage broken down by Day of the Week, Gender, and whether the user is a Subscriber or single use Customer.  As can be seen, the subscription model is in this analysis accounts for the majority of ride share, for both male and female users.  
       The inverse is shown for non-identified users.  The majority of non-identified users fall within the single use category.  This could indicate that the average one time user simply does not wish to share their personal data, or that the login information sharing was kept to a minimum in order to access the bike faster.  Further analysis could determine whether these are impulse rentals or repeated single use by a customer where marketing can consider adjusted strategies to convert the user into a subscriber.
     </h5>
